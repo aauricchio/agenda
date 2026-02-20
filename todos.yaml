@@ -1,16 +1,4 @@
 ---
-date: 2026-02-19
-time: 17:54
-urgent: false
-complete: false
-payload: "khalil lyapunov chapter"
----
-date: 2026-02-19
-time: 17:55
-urgent: false
-complete: false
-payload: "get thales demo done "
----
 date: 2026-02-20
 time: 10:15
 urgent: false
@@ -20,13 +8,13 @@ payload: "lemma 6.1 change l.p.d around omega_s in omega_s,s+ to other way aroun
 date: 2026-02-20
 time: 10:16
 urgent: false
-complete: false
+complete: true
 payload: "examine LMI in lemma 5.1 - should be other way around?"
 ---
 date: 2026-02-20
 time: 10:18
 urgent: false
-complete: false
+complete: true
 payload: "adress reviewer comment for assumption 4.2 - should be a c_s sublevel set?"
 ---
 date: 2026-02-20
@@ -38,7 +26,7 @@ payload: "fix the constraints in the nonlinear example"
 date: 2026-02-20
 time: 10:34
 urgent: false
-complete: false
+complete: true
 payload: "add a note owning the conservatism in the nonlinear example"
 ---
 date: 2026-02-20
