@@ -40,3 +40,9 @@ time: 10:34
 urgent: false
 complete: false
 payload: "add a note owning the conservatism in the nonlinear example"
+---
+date: 2026-02-20
+time: 10:34
+urgent: false
+complete: false
+payload: "edit the figure in nonlinear example - u_P should be the mode 2 bound. u_P is actually 5 the whole time"
