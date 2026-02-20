@@ -14,7 +14,7 @@ payload: "examine LMI in lemma 5.1 - should be other way around?"
 date: 2026-02-20
 time: 10:18
 urgent: false
-complete: true
+complete: false
 payload: "adress reviewer comment for assumption 4.2 - should be a c_s sublevel set?"
 ---
 date: 2026-02-20
