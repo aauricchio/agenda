@@ -34,3 +34,9 @@ time: 10:34
 urgent: false
 complete: false
 payload: "edit the figure in nonlinear example - u_P should be the mode 2 bound. u_P is actually 5 the whole time"
+---
+date: 2026-02-20
+time: 14:48
+urgent: false
+complete: false
+payload: "address the comment about it being unclear how eq.17 follows from the definition of the cost function"
