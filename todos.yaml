@@ -36,7 +36,7 @@ complete: true
 payload: "fix the constraints in the nonlinear example"
 ---
 date: 2026-02-20
-time: 10:33
+time: 10:34
 urgent: false
 complete: false
-payload: "add a note in the nonlinear noting that the single terminal set removes the need to calculate hs​. Add a brief note stating that while this makes the terminal condition conservative, the algorithm's elasticity is still successfully demonstrated through the stage slack variables managing the transition between the distinct state constraints"
+payload: "add a note owning the conservatism in the nonlinear example"
