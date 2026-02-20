@@ -16,3 +16,9 @@ time: 10:15
 urgent: false
 complete: false
 payload: "lemma 6.1 change l.p.d around omega_s in omega_s,s+ to other way around"
+---
+date: 2026-02-20
+time: 10:16
+urgent: false
+complete: false
+payload: "examine LMI in lemma 5.1 - should be other way around?"
