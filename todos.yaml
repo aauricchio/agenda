@@ -58,3 +58,9 @@ time: 14:21
 urgent: false
 complete: false
 payload: "get pfl working on boat sim"
+---
+date: 2026-02-23
+time: 14:21
+urgent: false
+complete: false
+payload: "get the elastic element (basic) working on the boat sim for thales demo"
