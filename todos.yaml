@@ -50,13 +50,13 @@ payload: "add my erp tsr hours: 8 for avdasi and 1 for rp3 drop-in"
 date: 2026-02-23
 time: 14:21
 urgent: false
-complete: false
+complete: true
 payload: "get psf working on the boat sim"
 ---
 date: 2026-02-23
 time: 14:21
 urgent: false
-complete: false
+complete: true
 payload: "get pfl working on boat sim"
 ---
 date: 2026-02-23
