@@ -38,7 +38,7 @@ payload: "edit the figure in nonlinear example - u_P should be the mode 2 bound.
 date: 2026-02-20
 time: 14:48
 urgent: false
-complete: false
+complete: true
 payload: "address the comment about it being unclear how eq.17 follows from the definition of the cost function"
 ---
 date: 2026-02-22
@@ -68,5 +68,5 @@ payload: "get the elastic element (basic) working on the boat sim for thales dem
 date: 2026-02-25
 time: 12:51
 urgent: false
-complete: false
+complete: true
 payload: "make a list of action points from the thales meeting"
